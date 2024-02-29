@@ -1,0 +1,1 @@
+select  count(distinct id), count(*) from STV2024012266__STAGING.users;
